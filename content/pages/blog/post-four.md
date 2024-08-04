@@ -45,7 +45,7 @@ bottomSections:
   - type: ContactSection
     backgroundSize: full
     title: Stay up-to-date with my words ✍️
-    colors: colors-f
+    colors: colors-d
     form:
       type: FormBlock
       elementId: sign-up-form
